@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b4aedf62beffe04ff0b933c45f0485ab",
+    "revision": "0e0a777b71a69c18b0de208f9c9d209c",
     "url": "/elite-quests/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elite-quests/static/js/2.a47a98fc.chunk.js"
   },
   {
-    "revision": "7c413d2983a9b5fa76c7",
-    "url": "/elite-quests/static/js/main.aa62b10e.chunk.js"
+    "revision": "27071141d2d981641507",
+    "url": "/elite-quests/static/js/main.cfb0b277.chunk.js"
   },
   {
     "revision": "ca37ac837dfe7de4f094",
