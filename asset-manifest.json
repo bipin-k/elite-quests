@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.js": "/elite-quests/static/js/main.ed074e75.js",
-    "static/media/svg-1.svg": "/elite-quests/static/media/svg-1.c9c88a21e91731441defcbe4fd28df2c.svg",
-    "static/media/svg-2.svg": "/elite-quests/static/media/svg-2.882a2cd55b0d7b00d26fa8b75df947a2.svg",
-    "static/media/svg-3.svg": "/elite-quests/static/media/svg-3.335c6aa86c2cf6a13e044975c1beee48.svg",
+    "main.js": "/elite-quests/static/js/main.aa62b10e.chunk.js",
+    "main.js.map": "/elite-quests/static/js/main.aa62b10e.chunk.js.map",
+    "runtime~main.js": "/elite-quests/static/js/runtime~main.b2afe5b7.js",
+    "runtime~main.js.map": "/elite-quests/static/js/runtime~main.b2afe5b7.js.map",
+    "static/js/2.a47a98fc.chunk.js": "/elite-quests/static/js/2.a47a98fc.chunk.js",
+    "static/js/2.a47a98fc.chunk.js.map": "/elite-quests/static/js/2.a47a98fc.chunk.js.map",
     "index.html": "/elite-quests/index.html",
-    "main.ed074e75.js.map": "/elite-quests/static/js/main.ed074e75.js.map"
-  },
-  "entrypoints": [
-    "static/js/main.ed074e75.js"
-  ]
+    "precache-manifest.30d22104e548442cdd2aec0c79910600.js": "/elite-quests/precache-manifest.30d22104e548442cdd2aec0c79910600.js",
+    "service-worker.js": "/elite-quests/service-worker.js",
+    "static/media/company.png": "/elite-quests/static/media/company.01405717.png",
+    "static/media/svg-1.svg": "/elite-quests/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/elite-quests/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/elite-quests/static/media/svg-3.397c455a.svg"
+  }
 }
