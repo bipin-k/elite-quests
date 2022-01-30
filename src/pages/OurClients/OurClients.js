@@ -1,8 +1,11 @@
 import React from 'react';
+import { InfoSection } from '../../components';
+import { homeObjOne } from './Data';
 
 const OurClients = () => {
-    return(
+    return (
         <>
+            <InfoSection {...homeObjOne} />
         </>
     );
 }

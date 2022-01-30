@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import {FaMagento} from 'react-icons/fa';
-import {Link} from 'react-router-dom';
+import { FaMagento } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 export const FooterContainer = styled.div`
   background-color: #101522;
@@ -27,6 +27,7 @@ export const FooterSubHeading = styled.p`
   'Lucida Sans', Arial, sans-serif;
   margin-bottom: 24px;
   font-size: 24px;
+  font-weight: bold;
 `;
 
 export const FooterSubText = styled.p`

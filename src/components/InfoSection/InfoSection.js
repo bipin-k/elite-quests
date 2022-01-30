@@ -1,5 +1,5 @@
 import React from 'react';
-import {Container} from '../../globalStyles';
+import { Container } from '../../globalStyles';
 import {
     Heading,
     Img,
@@ -13,20 +13,20 @@ import {
 } from './InfoSection.elements';
 
 function InfoSection({
-                         primary,
-                         lightBg,
-                         topLine,
-                         lightTopLine,
-                         lightText,
-                         lightTextDesc,
-                         headline,
-                         description,
-                         buttonLabel,
-                         img,
-                         alt,
-                         imgStart,
-                         start
-                     }) {
+    primary,
+    lightBg,
+    topLine,
+    lightTopLine,
+    lightText,
+    lightTextDesc,
+    headline,
+    description,
+    buttonLabel,
+    img,
+    alt,
+    imgStart,
+    start
+}) {
     return (
         <>
             <InfoSec lightBg={lightBg}>
@@ -46,7 +46,7 @@ function InfoSection({
                         </InfoColumn>
                         <InfoColumn>
                             <ImgWrapper start={start}>
-                                <Img src={img.default} alt={alt}/>
+                                <Img src={img} alt={alt} />
                             </ImgWrapper>
                         </InfoColumn>
                     </InfoRow>
